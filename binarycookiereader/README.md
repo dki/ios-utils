@@ -1,0 +1,1 @@
+This is a copy of `BinaryCookieReader.py` by [Satishb3](https://github.com/satishb3) from the post [Safari/iOS – Cookies.binarycookies reader](http://www.securitylearn.net/2012/10/27/cookies-binarycookies-reader/), updated for Python 3.  Please visit the original post for more information on the technical details.  
